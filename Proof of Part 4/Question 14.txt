@@ -1,0 +1,1 @@
+I think the picture class is drawing each object with it's size, position and color already set in one function instead of having to run multiple functions like I was doing in part 3
